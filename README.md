@@ -22,7 +22,7 @@ To run this project, clone the repo and open it in Android Studio.
 
 ```bash
 git clone https://github.com/Xdiad47/Post-App.git
-
+```
 ## Screenshots
 
 - **List view:**
