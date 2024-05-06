@@ -45,3 +45,7 @@ Launch the application in Android Studio.
 The app will automatically fetch posts from the JSONPlaceholder API and display them.
 Scroll to load more posts.
 Click on any post to view detailed information.
+
+## Contact
+Name - Diadem
+Mail ID: mail2diadem@gmail.com
